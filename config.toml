@@ -1,0 +1,6 @@
+languageCode = "en-us"
+title = "Hugo Tutorial Site"
+baseurl = "https://scriptureaudio.github.io"
+theme = "hugo-theme-bleak"
+publishDir = "public"
+canonifyurls = true
