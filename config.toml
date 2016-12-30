@@ -1,6 +1,46 @@
 languageCode = "en-us"
-title = "Hugo Tutorial Site"
+title = "Scripture Audio"
 baseurl = "https://scriptureaudio.github.io"
-theme = "hugo-theme-bleak"
+theme = "ghostwriter"
 publishDir = "public"
 canonifyurls = true
+copyright = "2016"
+
+[Author]
+	name = "Jonathon"
+
+[Taxonomies]
+	tag = "tags"
+
+[Params]
+	intro = true
+	headline = "Scripture Audio"
+	twitter = "https://twitter.com/ScriptureAudio"
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "How it works"
+    url = "/project/"
+    weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url = "/project/"
+    weight = 2
+
+[[menu.main]]
+    name = "Heritage"
+    url = "/project/heritage/heritage/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 4
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 5
