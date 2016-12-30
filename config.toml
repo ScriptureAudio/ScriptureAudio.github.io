@@ -5,6 +5,7 @@ theme = "ghostwriter"
 publishDir = "public"
 canonifyurls = true
 copyright = "2016"
+disqusShortname = "scriptureaudio"
 
 [Author]
 	name = "Jonathon"
