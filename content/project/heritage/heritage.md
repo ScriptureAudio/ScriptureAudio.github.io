@@ -38,4 +38,3 @@ Link to an example performance on YouTube, for reference.
 {{< youtube 6tj2y8-_ric >}}
 
 {{ template "_internal/disqus.html" . }}
-{{ partial "disqus.html" . }}
