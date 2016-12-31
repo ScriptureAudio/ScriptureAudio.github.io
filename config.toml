@@ -14,7 +14,7 @@ disqusShortname = "scriptureaudio"
 [Params]
 	intro = true
 	headline = "Scripture Audio"
-	description = "My description"
+	description = "Let the word of Christ dwell in you richly..."
 	twitter = "https://twitter.com/ScriptureAudio"
 
 [Permalinks]
