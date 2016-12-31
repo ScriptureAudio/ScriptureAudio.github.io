@@ -1,47 +1,49 @@
-languageCode = "en-us"
-title = "Scripture Audio"
-baseurl = "https://scriptureaudio.github.io"
+baseurl = "https://example.com/"
+title = "Ghostwriter example"
 theme = "ghostwriter"
-publishDir = "public"
-canonifyurls = true
-copyright = "2016"
-disqusShortname = "scriptureaudio"
+languageCode = "en-us"
+copyright = "My Name"
+disqusShortname = "XXX"
+googleAnalytics = "XXX"
 
 [Author]
-	name = "Jonathon"
+    name = "My Name"
+    profile = "https://google.com/+XXX"
 
 [Taxonomies]
-	tag = "tags"
+    tag = "tags"
 
 [Params]
-	intro = true
-	headline = "Scripture Audio"
-	twitter = "https://twitter.com/ScriptureAudio"
+    intro = true
+    headline = "Ghostwriter example"
+    description = "Ghostwriter example description"
+    github = "https://github.com/XXX"
+    gitlab = "https://gitlab.com/XXX"
+    linkedin = "https://linkedin.com/in/XXX/"
+    gplus = "https://google.com/+XXX"
+    twitter = "https://twitter.com/XXX"
+    stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
+    opengraph = true
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-    name = "How it works"
-    url = "/project/"
+    name = "Blog"
+    url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "Projects"
     url = "/project/"
     weight = 2
 
 [[menu.main]]
-    name = "Heritage"
-    url = "/project/heritage/heritage/"
-    weight = 3
-
-[[menu.main]]
     name = "Contact"
     url = "/page/contact/"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     name = "About"
     url = "/page/about/"
-    weight = 5
+    weight = 4

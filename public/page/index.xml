@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Page-rsses on Scripture Audio</title>
-    <link>https://scriptureaudio.github.io/page/index.xml</link>
-    <description>Recent content in Page-rsses on Scripture Audio</description>
+    <title>Page-rsses on Ghostwriter example</title>
+    <link>https://example.com/page/index.xml</link>
+    <description>Recent content in Page-rsses on Ghostwriter example</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2016</copyright>
+    <copyright>My Name</copyright>
     <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate>
-    <atom:link href="https://scriptureaudio.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>https://scriptureaudio.github.io/page/about/</link>
+      <link>https://example.com/page/about/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>https://scriptureaudio.github.io/page/about/</guid>
+      <guid>https://example.com/page/about/</guid>
       <description>
 
 &lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
@@ -30,10 +30,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://scriptureaudio.github.io/page/contact/</link>
+      <link>https://example.com/page/contact/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>https://scriptureaudio.github.io/page/contact/</guid>
+      <guid>https://example.com/page/contact/</guid>
       <description>
 
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
