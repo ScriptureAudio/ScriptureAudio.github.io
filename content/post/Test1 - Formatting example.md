@@ -1,6 +1,6 @@
 +++
 title = "Formatting examples"
-draft = true
+draft = false
 date = "2016-12-28T12:40:50-05:00"
 
 +++
