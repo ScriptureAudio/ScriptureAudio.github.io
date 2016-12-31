@@ -35,5 +35,3 @@ When you have `code in the middle` like that
 A [hyperlink](http://google.com) would look like this.
 
 ~strikethrough~ or maybe ~~strikethrough~~
-
-

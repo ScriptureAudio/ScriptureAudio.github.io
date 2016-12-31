@@ -1,14 +1,26 @@
 +++
 title = "About"
 date = 2015-04-03T02:13:50Z
-author = "My Name"
-description = "Things about me."
+description = "All about Scripture Audio."
 +++
 
-## About
+## Purpose
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien. Sed id vehicula lectus, sit amet auctor ipsum. Nunc sed massa vel ex condimentum aliquam in a enim. Cras enim sem, tristique eu enim ac, congue commodo mi. Integer quis orci at dolor blandit eleifend.
+Scripture Audio is dedicated to helping churches, families and individuals absorb the Word of God through a rich interaction with classical music.  Our secondary goal is to bring amateur musicians back into service to the believing community by arranging local, on-the-ground recording sessions, joining both the production and consumption of music and Scripture narration in an enjoyable, lasting, and localized process of culture building.  We believe in the power of recordings to enable Christians to grow in their faith, teach their children, share their gifts, remember the past, and encourage the brethren.  
 
-## School
+## Rationale
 
-Sed quis pulvinar nisi, sed dapibus lacus. Mauris tempus ex ut ipsum facilisis interdum. Integer feugiat urna sed feugiat tempor. Quisque dictum vestibulum feugiat. Nunc nec est volutpat lorem imperdiet egestas sit amet ut orci. Aliquam venenatis neque ipsum, a placerat lectus cursus at. Donec pellentesque tellus hendrerit faucibus posuere. Etiam gravida consequat lectus, volutpat consectetur velit convallis nec. Praesent sagittis luctus dignissim.
+Christians are taught to learn the Word in a music-drenched way (Col. 3:16 -- our theme verse.)  Memorizing individual verses and verse references of the Bible has its place, but if we believe that the Scriptures are both living and active, and if we desire this Divine life to grow within us, we're advised to imbibe the Scriptures in a musical way, preferably in large enough 'chunks' that we grasp *the context*.  
+
+The Scriptures aren't specific as to *what this sounds like;* but in the spirit of bringing to God the best our culture has to offer, we propose to help you and your family choose the best of traditional music as an aid not only in your Bible *proficiency*, but in your *love for the Word.*  If you ever came across a line in your Bible which had been set to a familiar, perhaps beloved song in your churchgoing past, you know the 'heart in your mouth' feeling as the words suddenly leap off the page and stir the deeper reaches of your heart.  This is the highest and best purpose of music in God's world; men and women were created to resonate best with the truth, when accompanied by the best compositions which resonate with that truth.
+
+This is the highest and best purpose of music in God's world; men and women were created to resonate best with the truth, when music which best resonates with that truth accompanies it.
+
+## How it works...
+You listen to audio tracks.  That's it.  Our motto is, *If it isn't easy, we won't do it...*, and we've organized everything around that philosophy.
+
+If you want to learn a portion of Scripture, you start out listening to a complete narration of the text, accompanied by a carefully scored recording of classical music.  Over time, slightly altered tracks give you less and less of the Scripture narration, so your mind, clued-in by familiarity with the music, begins to 'fill in' the missing pieces, until you arrive at full mastery of the material.  By this point, the music is typically an unnecessary 'crutch', since the narration *is never rhymed, or set to poetry.*
+
+These tracks can be listened to in the car, while jogging, on an iPod or cell phone, or over whatever Bluetooth/mp3/phonograph/newfangled device you use.
+
+We encourage you to listen in a family context, if possible, because while you are learning the Scriptures together, you are also growing in a shared, cultural experience of the music *in connection* with that passage -- and musical experiences are always best, when they are shared.  The gift of love for music, is a gift meant to be passed on.

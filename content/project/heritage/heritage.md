@@ -2,7 +2,6 @@
 title = "Spring 2017"
 description = "Psalm recording at Heritage Church, CPC in Centerville, TN"
 date = 2016-12-30T02:13:50Z
-author = "Jonathon"
 +++
 
 ```bash
@@ -11,7 +10,7 @@ Note: We are currently in pre-production
 
 # Heritage Church CPC
 
-In February 2017 we will be at Heritage Church in Centerville TN.  Recordings are scheduled for **Psalms #73, 103 and 139.**  For the participating musicians -- See below for music selections.
+In February 2017 we will be at Heritage Church in Centerville TN.  Recordings are scheduled for **Psalms #73, 103 and 139.**  For the participating musicians -- See below for music selections.  Please comment below to leave us a message!
 
 ## For Musicians...
 
@@ -36,5 +35,3 @@ For Psalm #139 (KJV) we have scored [Alexander Siloti's](https://en.wikipedia.or
 Link to an example performance on YouTube, for reference.
 
 {{< youtube 6tj2y8-_ric >}}
-
-{{ template "_internal/disqus.html" . }}

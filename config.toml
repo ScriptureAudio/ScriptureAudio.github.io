@@ -6,7 +6,8 @@ copyright = "2016"
 disqusShortname = "scriptureaudio"
 
 [Author]
-	name = "Jonathon"
+    name = "Jonathon"
+    profile = "https://www.facebook.com/ScriptureAudio-1185573308164019/?ref=bookmarks"
 
 [Taxonomies]
 	tag = "tags"
@@ -14,20 +15,20 @@ disqusShortname = "scriptureaudio"
 [Params]
 	intro = true
 	headline = "Scripture Audio"
-	description = "'' ... Let the word of Christ dwell in you richly ... ''"
+	description = "'' ... Let the word of Christ dwell in you richly ... '' Col. 3.16"
 	twitter = "https://twitter.com/ScriptureAudio"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
 
 [[menu.main]]
-    name = "How it works"
-    url = "/project/"
+    name = "Blog"
+    url = "/post/"
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
-    url = "/project/"
+    name = "About"
+    url = "/page/about/"
     weight = 2
 
 [[menu.main]]
@@ -39,8 +40,3 @@ disqusShortname = "scriptureaudio"
     name = "Contact"
     url = "/page/contact/"
     weight = 4
-
-[[menu.main]]
-    name = "About"
-    url = "/page/about/"
-    weight = 5

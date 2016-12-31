@@ -2,9 +2,11 @@
 title = "Contact"
 date = 2015-04-03T02:13:50Z
 author = "My Name"
-description = "How to contact me."
+description = "How to contact Scripture Audio."
 +++
 
 ## Contact
 
-Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.
+Based out of Southwest Virginia, our focus is on church communities, home school groups and Christian schools in the Central & Southeast US.  If you would like to inquire regarding a S/A production for your church or school group, or if you'd just like to drop us a line, please email us at **[ScriptureAudio@gmail.com.](mailto:scriptureaudio@gmail.com)**
+
+Also check us out on **[Facebook](https://www.facebook.com/ScriptureAudio-1185573308164019/)** and **[Twitter](https://twitter.com/ScriptureAudio)**.
