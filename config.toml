@@ -3,7 +3,6 @@ title = "Scripture Audio"
 baseurl = "https://scriptureaudio.github.io/"
 theme = "ghostwriter"
 copyright = "2016"
-disqusShortname = "scriptureaudio"
 
 [Author]
 	name = "Jonathon"
@@ -16,6 +15,7 @@ disqusShortname = "scriptureaudio"
 	headline = "Scripture Audio"
 	description = "'' ... Let the word of Christ dwell in you richly ... ''"
 	twitter = "https://twitter.com/ScriptureAudio"
+    disqusShortname = "scriptureaudio"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
