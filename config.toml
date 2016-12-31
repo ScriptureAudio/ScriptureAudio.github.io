@@ -2,8 +2,6 @@ languageCode = "en-us"
 title = "Scripture Audio"
 baseurl = "https://scriptureaudio.github.io"
 theme = "ghostwriter"
-publishDir = "public"
-canonifyurls = true
 copyright = "2016"
 disqusShortname = "scriptureaudio"
 
@@ -16,6 +14,7 @@ disqusShortname = "scriptureaudio"
 [Params]
 	intro = true
 	headline = "Scripture Audio"
+	description = "My description"
 	twitter = "https://twitter.com/ScriptureAudio"
 
 [Permalinks]
