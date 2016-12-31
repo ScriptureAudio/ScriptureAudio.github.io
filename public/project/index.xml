@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project-rsses on Scripture Audio</title>
+    <link>https://scriptureaudio.github.io/project/index.xml</link>
+    <description>Recent content in Project-rsses on Scripture Audio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2016</copyright>
+    <lastBuildDate>Fri, 30 Dec 2016 02:13:50 +0000</lastBuildDate>
+    <atom:link href="https://scriptureaudio.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spring 2017</title>
+      <link>https://scriptureaudio.github.io/project/heritage/heritage/</link>
+      <pubDate>Fri, 30 Dec 2016 02:13:50 +0000</pubDate>
+      
+      <guid>https://scriptureaudio.github.io/project/heritage/heritage/</guid>
+      <description>
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;Note: We are currently in pre-production
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&#34;heritage-church-cpc&#34;&gt;Heritage Church CPC&lt;/h1&gt;
+
+&lt;p&gt;In February 2017 we will working at Heritage Church in Centerville TN, helping this congregation enrich their life with God&amp;rsquo;s word and some great classical music!  Updates will be posted here as events progress - at this time we are scheduling recordings of &lt;strong&gt;Psalms #73, 103 and 139.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our goal is to engage the talents of
+See below for music selections.&lt;/p&gt;
+
+&lt;h2 id=&#34;musicians&#34;&gt;Musicians&lt;/h2&gt;
+
+&lt;p&gt;For a mock-up preview of Psalm 139, including narration, please &lt;strong&gt;&lt;a href=&#34;https://scriptureaudio.github.io/project/heritage/1701c139.mp3&#34;&gt;click here.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;psalm-73&#34;&gt;Psalm #73&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;Score for Psalm 73 is T.B.D.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;psalm-103&#34;&gt;Psalm #103&lt;/h2&gt;
+
+&lt;p&gt;For Psalm #103 (KJV) we have scored the &lt;em&gt;Andante cantabile&lt;/em&gt; (third) movement from Beethoven&amp;rsquo;s string trio Opus #97 &amp;lsquo;Archduke&amp;rsquo;.  &lt;strong&gt;NOTE:  Sheet music can &lt;a href=&#34;https://dl.dropboxusercontent.com/u/40625080/SA/SA/Heritage/Sheet%20music/Beethoven%20Opus%2097%20Piano%20Trio%20in%20Bb%20Major.zip&#34;&gt;be found here:&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Link to an example performance on YouTube, for reference.  (&lt;em&gt;Please fast-forward to 25 minutes, 19 seconds)&lt;/em&gt;&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/5mrfy_D9JVE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;psalm-139&#34;&gt;Psalm #139&lt;/h2&gt;
+
+&lt;p&gt;For the lovely and mysterious Psalm #139 (KJV) we have scored &lt;a href=&#34;https://en.wikipedia.org/wiki/Alexander_Siloti&#34;&gt;Alexander Siloti&amp;rsquo;s&lt;/a&gt; keyboard transcription of JS Bach&amp;rsquo;s &lt;em&gt;Andante&lt;/em&gt; from the &lt;em&gt;Sonata for Violin Solo in A Major.&lt;/em&gt;  &lt;strong&gt;NOTE:  Sheet music can &lt;a href=&#34;https://scriptureaudio.github.io/project/heritage/siloti.pdf&#34;&gt;be found here:&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(right-click to Save As&amp;hellip;)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Link to an example performance on YouTube, for reference.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/6tj2y8-_ric&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;{{ partial &amp;ldquo;disqus.html&amp;rdquo; . }}&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
