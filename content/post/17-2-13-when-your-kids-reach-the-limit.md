@@ -1,5 +1,5 @@
 +++
-title = "When your kids reach the limit"
+title = "When Your Kids Reach the Limit"
 draft = false
 date = "2017-02-13T8:00:00-05:00"
 
