@@ -1,0 +1,18 @@
++++
+title = "When your kids reach the limit"
+draft = false
+date = "2017-02-13T8:00:00-05:00"
+
++++
+
+# Don't let your pride get in your kids' way.
+
+Lately I've encountered a fresh situation where my kids' memorization level in Psalms is starting to approach my own.  Pretty soon I'll possess the blessing of a house full of little ones who know as much great material from this book, as I do.  It's been fun to be able to "check" them on mispronounced words, or forgotten phrases, while I'm doing chores or working on something else, all from memory.  It's rather effortless because the material is already *in there*, in mental RAM so to speak. The task of getting up and doing Scripture memory with them every day seemed no great challenge in the past, and my motivation level was always high.  Of course we all have certain chores that are onerous, like mopping the floors in my case (hate mopping...).  Scripture memory so far as not been that chore.  It's been more along the lines of excitement, like "Hey kids, there is the great Psalm I can't wait to share with you!"
+
+But now the party is  over.  As they essentially surpass my knowledge level, I feel a hesitation which I can't quite place my finger on.  A feeling of *resistance*, as [Steven Pressfield](https://www.amazon.com/Do-Work-Overcome-Resistance-Your/dp/1936891379) might say.  The motivation has slipped away.  I guess the children are wading into waters I haven't explored myself, and that brings with it a sense of trepidation, like I suppose anyone might feel about something new.  I've been procrastinating on prepping new Psalms for them to start in on, and the reason has nothing to do with their readiness for the material - I have every reason to believe they'll be as curious about them as they were, about the others.  The reason is all about me and my very human reticence about pushing through what I *perceive* as a threshold or "glass ceiling", the boundary of my own knowledge where I feel comfortable, and moving into an area where I don't feel as comfortable.
+
+It's obviously a misplaced and faithless kind of anxiety that would set a poor limit on how much of the Scriptures my children learn, *namely my own limit.*  There is - may I say this with a kindly Internet smile - a sort of pride in knowing more than your children.  Right?  There can be fear of your children perceiving that you really don't know as much as they thought you did.  What will they *think* of you then?  Will you lose just a teensy bit of respectability in their eyes?
+
+> There is ... a sort of pride in knowing more than your children.
+
+How do you deal with this situation?  Sometimes just naming our problems is half the battle, and if you also struggle with these kind of natural barriers to forward movement into new and unexplored areas in parenting, let me encourage you to name that fear, that laziness if you like.   I've recently been getting wisdom from [Michael Hyatt](https://michaelhyatt.com/two-postures-toward-change.html) where he encourages *leaning in* to these growth areas, even if it feels uncomfortable.  Get personal with the issue; move up to it, look it square in the face, then prayerfully suss out the answers to, "why am I averse to forward movement, with confidence, in this area?"  Then take the first small step toward tackling it.  We all love the line from CS Lewis where the Narnia characters charge deeper into the heavenly kingdom saying, "Higher up and further in!"  We know we aren't given over to a spirit of *fear*.  So what is keeping you from letting your children go where you haven't gone before?  Are there any tips you can share from your own experience?  Share with the rest of us down below.
