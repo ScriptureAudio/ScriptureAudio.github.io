@@ -11,6 +11,6 @@ date = 2016-12-30T02:13:50Z
 
 >**Upload date 5/31/17
 
-Hello Scripture memorizers!  This month we are pleased to be enjoying Psalm 103 in the King James Version, brought to us by Scott Young and the Centerville String Quartet.  Back in March your Centerville String Quartet recorded the *Andante cantabile* (third) movement from Beethoven's piano trio Opus #97 'Archduke' as a fine, satisfying pairing for the Psalm.  The result was excellent, and we hope your family will enjoy listening in.
+Hello Heritage!  Ready to memorize a Psalm?  This month we are enjoying #103 together in the King James Version, brought to us by Scott Young and your very own Centerville String Quartet.  Back in March they recorded the *Andante cantabile* (third) movement from Beethoven's piano trio Opus #97 'Archduke'.  What a pairing with Psalm 103!  We hope your family will enjoy it as much as mine will.
 
-For best results listen to this track three or four times in succession, during an uninterrupted moment where the music can help your mind engage fully with the text of the Psalm.  You'll find the tune will stay with you after a few days, and serve to keep those phrases and thoughts the Lord highlights to you stick and rattle around in your mind, better than if you'd simply read them dry.  Enjoy!
+For best results listen to this track every day, three or four times in succession.  Try to listen during an uninterrupted moment where the music can help your mind engage fully with the text.  You'll find the tune will stay with you after a few days, especially if you like to *hum*, and will serve to keep phrases and thoughts rattling around in your mind.  Memorizing is easy with great music!  Enjoy.
