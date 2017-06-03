@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project-rsses on Scripture Audio</title>
-    <link>https://scriptureaudio.github.io/project/index.xml</link>
-    <description>Recent content in Project-rsses on Scripture Audio</description>
+    <title>Projects on Scripture Audio</title>
+    <link>https://scriptureaudio.github.io/project/</link>
+    <description>Recent content in Projects on Scripture Audio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016</copyright>
     <lastBuildDate>Fri, 30 Dec 2016 02:13:50 +0000</lastBuildDate>
-    <atom:link href="https://scriptureaudio.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://scriptureaudio.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Heritage Church CPC </title>
@@ -16,20 +18,8 @@
       <pubDate>Fri, 30 Dec 2016 02:13:50 +0000</pubDate>
       
       <guid>https://scriptureaudio.github.io/project/heritage/heritage/</guid>
-      <description>
-
-&lt;h2 id=&#34;psalm-103-kjv&#34;&gt;Psalm 103, KJV&amp;hellip;&lt;/h2&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/325442233&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&#34;&gt;&lt;/iframe&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;**Upload date 5/31/17&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Hello Heritage!  Ready to memorize a Psalm?  This month we are enjoying #103 together in the King James Version, brought to us by Scott Young and your very own Centerville String Quartet.  Back in March they recorded the &lt;em&gt;Andante cantabile&lt;/em&gt; (third) movement from Beethoven&amp;rsquo;s piano trio Opus #97 &amp;lsquo;Archduke&amp;rsquo;.  What a pairing with Psalm 103!  We hope your family will enjoy it as much as mine will.&lt;/p&gt;
-
-&lt;p&gt;For best results listen to this track every day, three or four times in succession.  Try to listen during an uninterrupted moment where the music can help your mind engage fully with the text.  You&amp;rsquo;ll find the tune will stay with you after a few days, especially if you like to &lt;em&gt;hum&lt;/em&gt;, and will serve to keep phrases and thoughts rattling around in your mind.  Memorizing is easy with great music!  Enjoy.&lt;/p&gt;
-</description>
+      <description>Psalm 103, KJV&amp;hellip;&amp;hellip;   **Upload date 5/31/17
+ Hello Heritage! Ready to memorize a Psalm? This month we are enjoying #103 together in the King James Version, brought to us by Scott Young and your very own Centerville String Quartet. Back in March they recorded the Andante cantabile (third) movement from Beethoven&amp;rsquo;s piano trio Opus #97 &amp;lsquo;Archduke&amp;rsquo;. What a pairing with Psalm 103! We hope your family will enjoy it as much as mine will.</description>
     </item>
     
   </channel>
