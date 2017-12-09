@@ -42,11 +42,11 @@
 
 &lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; target=&#34;_top&#34;&gt;
 &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
-&lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;CN22QBL5G5KXJ&#34;&gt;
+&lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;HHGUA33QFFXJ4&#34;&gt;
 &lt;table&gt;
-&lt;tr&gt;&lt;td&gt;&lt;input type=&#34;hidden&#34; name=&#34;on0&#34; value=&#34;Shopping choices&#34;&gt;Shopping choices&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;select name=&#34;os0&#34;&gt;
-    &lt;option value=&#34;Local pickup&#34;&gt;Local pickup $0.00 USD&lt;/option&gt;
-    &lt;option value=&#34;Shipping&#34;&gt;Shipping $3.95 USD&lt;/option&gt;
+&lt;tr&gt;&lt;td&gt;&lt;input type=&#34;hidden&#34; name=&#34;on0&#34; value=&#34;Shipping options&#34;&gt;Shipping options&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;select name=&#34;os0&#34;&gt;
+    &lt;option value=&#34;Pickup at church&#34;&gt;Pickup at church $15.00 USD&lt;/option&gt;
+    &lt;option value=&#34;Mailed USPS&#34;&gt;Mailed USPS $18.95 USD&lt;/option&gt;
 &lt;/select&gt; &lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 &lt;input type=&#34;hidden&#34; name=&#34;currency_code&#34; value=&#34;USD&#34;&gt;
